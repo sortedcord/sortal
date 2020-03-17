@@ -1,0 +1,60 @@
+/* Second Term */
+.card--ml2 .card__img,
+.card--ml2 .card__img--hover {
+  background-image: url("https://vignette.wikia.nocookie.net/malorytowers/images/d/d1/B2.png/revision/latest?cb=20120829152807");
+}
+
+/* Third Term */
+.card--ml3 .card__img,
+.card--ml3 .card__img--hover {
+  background-image: url("https://images-na.ssl-images-amazon.com/images/I/518XY1H410L._SX310_BO1,204,203,200_.jpg");
+}
+/* Upper FOurth Term */
+.card--ml4 .card__img,
+.card--ml4 .card__img--hover {
+  background-image: url("https://images-na.ssl-images-amazon.com/images/I/51mU4OF9bdL._SX324_BO1,204,203,200_.jpg");
+}
+/* Fifth Term */
+
+.card--ml5 .card__img,
+.card--ml5 .card__img--hover {
+  background-image: url("https://images-na.ssl-images-amazon.com/images/I/51bcc0Eq2AL._SX309_BO1,204,203,200_.jpg");
+}
+/* Last Term */
+
+.card--ml6 .card__img,
+.card--ml6 .card__img--hover {
+  background-image: url("https://images-na.ssl-images-amazon.com/images/I/51lci4XiiBL._SX310_BO1,204,203,200_.jpg");
+}
+/* New Term */
+
+.card--ml7 .card__img,
+.card--ml7 .card__img--hover {
+  background-image: url("https://images-na.ssl-images-amazon.com/images/I/51Ck5hr1Y5L._SX310_BO1,204,203,200_.jpg");
+}
+/* Summer Term */
+
+.card--ml8 .card__img,
+.card--ml8 .card__img--hover {
+  background-image: url("https://images-na.ssl-images-amazon.com/images/I/51cAsXl-XxL._SX324_BO1,204,203,200_.jpg");
+}
+/* Winter Term */
+.card--ml9 .card__img,
+.card--ml9 .card__img--hover {
+  background-image: url("https://d3ddkgxe55ca6c.cloudfront.net/assets/a/13/10/130267-ml-359532.jpg");
+}
+/* Fun & Games Term */
+.card--ml10 .card__img,
+.card--ml10 .card__img--hover {
+  background-image: url("https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327257211l/6945038.jpg");
+}
+/* Secrets */
+.card--ml11 .card__img,
+.card--ml11 .card__img--hover {
+  background-image: url("https://images-na.ssl-images-amazon.com/images/I/61NtM3gy6fL._SX324_BO1,204,203,200_.jpg");
+}
+/* Goodbye */
+.card--ml12 .card__img,
+.card--ml12 .card__img--hover {
+  background-image: url("https://images-na.ssl-images-amazon.com/images/I/515bBKSI-gL._SX324_BO1,204,203,200_.jpg");
+}
